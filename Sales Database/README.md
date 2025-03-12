@@ -21,7 +21,7 @@ This is a **Sales Database System** that manages products, customers, suppliers,
 ## 🖥️ ERD Diagram  
 Below is the **Entity-Relationship Diagram (ERD)** of the Sales Database System:  
 
-![ERD Diagram](./ERD%20Diagram.jpg)  
+![ERD Diagram](./ERD%20Diagram.png)  
 
 
 ## ⚙️ Setup  
