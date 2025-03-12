@@ -16,7 +16,13 @@ This is a **Sales Database System** that manages products, customers, suppliers,
 - `Tabel_Pemasok` → Stores supplier data  
 - `Tabel_Petugas` → Stores staff details  
 - `Tabel_Penjualan` → Records sales transactions  
-- `Tabel_Barang_Masuk` → Manages stock entries  
+- `Tabel_Barang_Masuk` → Manages stock entries
+
+## 🖥️ ERD Diagram  
+Below is the **Entity-Relationship Diagram (ERD)** of the Sales Database System:  
+
+![ERD Diagram](./ERD%20Diagram.jpg)  
+
 
 ## ⚙️ Setup  
 1. Import the SQL script into your MySQL database  
